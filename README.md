@@ -5,7 +5,7 @@
 ![License CC BY-NC](https://img.shields.io/badge/license-CC_BY--NC-green.svg?style=plastic)
 
 ![Teaser image](./bird.jpg)
-**Picture:** *These people are not real &ndash; they were produced by our generator that allows control over different aspects of the image.*
+**Picture:** *This bird is real &ndash; but can it do this?*
 
 This repository contains the official TensorFlow implementation of the following paper:
 
