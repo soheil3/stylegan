@@ -4,7 +4,7 @@
 ![cuDNN 7.3.1](https://img.shields.io/badge/cudnn-7.3.1-green.svg?style=plastic)
 ![License CC BY-NC](https://img.shields.io/badge/license-CC_BY--NC-green.svg?style=plastic)
 
-![Teaser image](./stylegan-teaser.png)
+![Teaser image](./bird.jpg)
 **Picture:** *These people are not real &ndash; they were produced by our generator that allows control over different aspects of the image.*
 
 This repository contains the official TensorFlow implementation of the following paper:
