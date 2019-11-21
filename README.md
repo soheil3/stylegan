@@ -5,6 +5,7 @@
 ![License CC BY-NC](https://img.shields.io/badge/license-CC_BY--NC-green.svg?style=plastic)
 
 ![Teaser image](./bird.jpg)
+
 **Picture:** *This bird is real &ndash; but can it do this?*
 
 This repository contains the official TensorFlow implementation of the following paper:
